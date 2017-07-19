@@ -9,7 +9,7 @@ This file is for development of the site, and shouldn't show up anywhere.
 To build the site locally, you'll need:
 
 - `git` and `make` (you probably already have these)
-- `hugo` (`brew install hugo` or grab a binary from [gohugo.io](https://gohugo.io))
+- `hugo` (`brew install hugo` or grab it from [gohugo.io](https://gohugo.io/getting-started/installing/))
 - a sense of humor and a readiness to party
 
 Then:
