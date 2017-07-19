@@ -1,0 +1,14 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "STLoveFP"
+theme: "kube"
+
+params:
+  copyright: "code: BSD 3-Clause. content: CC BY 4.0"
+
+menu:
+  footer:
+    - Name: GitHub
+      URL: "https://github.com/STLoveFP"
+    - Name: Slack
+      URL: "https://stltech.herokuapp.com/"
